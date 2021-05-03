@@ -1,0 +1,1 @@
+colour_converter = lambda c: int(str(c).replace('#', '0x'), 16)

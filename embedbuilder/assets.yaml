@@ -1,0 +1,7 @@
+title: "My first embed!"
+url: https://github.com/Kreusada/Kreusada-Cogs
+description: "Creating my first embed with EmbedBuilder."
+color: "#6ac6af"
+footer:
+  - text: "My footer"
+image: "https://wallpaperaccess.com/full/550445.jpg"
