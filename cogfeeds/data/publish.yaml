@@ -1,0 +1,14 @@
+#Required Keys
+name: CogFeeds
+end_user_data_statement: This cog does not persistently store data or metadata about users.
+
+# Suggested Keys
+author: [Kreusada]
+description: Publish cogs to a channel.
+requirements: []
+
+# Pretty Keys
+tags: [Fun, Utility]
+install_guide: true
+github_url: https://github.com/Kreusada/Kreusada-Cogs
+title_link: https://github.com/Kreusada/Kreusada-Cogs/tree/master
